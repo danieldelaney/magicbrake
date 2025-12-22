@@ -19,3 +19,16 @@ Good code is like poetry, or painting: the product of meditation which nourishes
 Some code is solely instrumental. It begins not with “How might I express my inner yearning most completely?” but instead “How might I arrive at something functional in the least time possible?” This project is born of the latter impulse.
 
 In short, hand coding is for savoring the work, and vibe coding is for automating that which one wishes was already done.
+
+# Third-Party Software
+
+## HandBrakeCLI
+
+Copyright © The HandBrake Team  
+License: GNU General Public License v2 (GPLv2) (See licenses/Handbrake-GPLv2.txt)
+
+HandBrakeCLI is distributed as a separate executable and is not part of this project's
+source code.
+
+Source code for HandBrakeCLI is available at:
+https://handbrake.fr
