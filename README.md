@@ -27,8 +27,7 @@ In short, hand coding is for savoring the work, and vibe coding is for automatin
 Copyright © The HandBrake Team  
 License: GNU General Public License v2 (GPLv2) (See licenses/Handbrake-GPLv2.txt)
 
-HandBrakeCLI is distributed as a separate executable and is not part of this project's
-source code.
+HandBrakeCLI is distributed as a separate executable and is not part of this project's source code.
 
 Source code for HandBrakeCLI is available at:
 https://handbrake.fr
