@@ -6,6 +6,8 @@ Magicbrake is a simple macOS GUI for `handbrakecli`. It’s equivalent to runnin
 
 # How do I install it?
 
+Note: Installation requires macOS Tahoe (26) or later.
+
 Grab the app from here:
 
 https://danieldelaney.net/magicbrake/
